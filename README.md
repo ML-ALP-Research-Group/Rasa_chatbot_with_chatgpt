@@ -86,9 +86,18 @@ rasa run actions
 
 - Enjoy the conversation...
 
+### Example:
+![image](https://user-images.githubusercontent.com/42673854/211275132-1353f107-7cb6-4cec-ac72-acf141dcbfe7.png)
+
+
+### Quick note:
+
+I have edited one file in revChatGPT repo to make it compatable with Rasa. The edited repo is [here](https://github.com/PAIN-BARHAM/ChatGPT).
 
 ## Contributors
 
 - [Muhammad Al-Barham](https://github.com/PAIN-BARHAM)
 - [Jovana Markovska](https://github.com/JovanaMarkovska)
 - [Prof. Ashraf Elnagar](https://github.com/elnagara)
+
+Also, thanks to the contributers in this repo, [here](https://github.com/acheong08/ChatGPT)
