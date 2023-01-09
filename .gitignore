@@ -1,2 +1,5 @@
 .env/*
-./rasa_chatbot_folder/.rasa
+./rasa_chatbot_folder/.rasa/*
+rasa_chatbot_folder/models/
+**/__pycache__/
+rasa_chatbot_folder/actions/__pycache__/*
