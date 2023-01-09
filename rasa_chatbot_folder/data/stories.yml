@@ -1,0 +1,30 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: action_chatgpt
+  - intent: mood_great
+  - action: action_chatgpt
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: action_chatgpt
+  - intent: mood_unhappy
+  - action: action_chatgpt
+  - action: action_chatgpt
+  - intent: affirm
+  - action: action_chatgpt
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: action_chatgpt
+  - intent: mood_unhappy
+  - action: action_chatgpt
+  - action: action_chatgpt
+  - intent: deny
+  - action: action_chatgpt

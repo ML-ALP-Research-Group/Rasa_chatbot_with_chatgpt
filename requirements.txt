@@ -1,0 +1,3 @@
+revChatGPT==0.1.0
+rasa==3.4.0                               
+rasa-sdk==3.4.0                      
